@@ -1,5 +1,5 @@
 # Sistema-Sito-e-commerce
-In base alla traccia fornita (vedi README.md), in questa repo si trova la documentazione UML del sistema richiesto.
+In base alla traccia fornita qui sotto, in questa repo si trova la documentazione UML del sistema richiesto.
 
 Si vuole realizzare un sito di e-commerce che renda disponibile un catalogo di articoli liberamente consultabile. Gli utenti registrati devono poter effettuare un ordine di acquisto e poter scegliere se effettuare il pagamento con carta di credito, via paypal o via bonifico bancario.
 - L’ordine, una volta inserito, viene memorizzato nel sistema e trasferito al reparto ordini che è tenuto ad evaderlo entro 3 giorni pena l’annullamento dell’ordine. 
